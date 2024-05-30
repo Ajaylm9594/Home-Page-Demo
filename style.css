@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(222, 228, 243);
+    position: relative;
+}
+.Navbar{
+
+padding-left: 899px;
+padding-top: 14px;
+
+
+}
+.logo{
+    float: left;
+    height: 31px;
+    width: 161px;
+    
+}
+.contact{
+    background-color: blue;
+    color: white;
+    border-radius: 16px;
+}
+.Navbar a{
+    
+    padding: 15px;
+    
+}
+span{
+    color: rgb(255, 0, 0);
+}
+
+.heading{
+    font-size: 75px;
+    margin-left: 55px;
+    position: static;
+   
+    
+}
+#tagline{
+    padding-top: 5px;
+    font-size: 25px;
+}
+
+.Consultant{
+    color: white;
+    font-size: 16px;
+   
+    margin-left: 55px;
+    background-color: rgb(5, 5, 128);
+    font-style: italic;
+    height: 30px;
+    width: 200px;
+    text-align: center;
+    border-radius: 10px;
+}
+img{
+    float: right;
+    width: 50%;
+    display: block;
+    
+}
+.clients{
+    height: 100%;
+    width: 100%;
+}
+.imgCo{
+    height: 100%;
+    width: 100%;;
+}
+
